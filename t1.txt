@@ -1,1 +1,3 @@
 today is tuesday
+ Right now time is 1PM
+
